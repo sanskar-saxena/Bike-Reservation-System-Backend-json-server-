@@ -1,0 +1,388 @@
+{
+  "users": [
+    {
+      "email": "jes@bitcs.in",
+      "password": "$2a$10$2kFKHMi814h/rKDLDQEWaekJX7B26502Y7RVQ8iRbzbgFjCU3EJna",
+      "role": "REGULAR",
+      "id": 4
+    },
+    {
+      "email": "sk@gmail.com",
+      "password": "$2a$10$iGRfvK.YPE4.Py9FprrNm.jV.yjzoUs9Ff2BSFM1lgbHVDvAdeisi",
+      "role": "MANAGER",
+      "id": 5
+    },
+    {
+      "email": "Prabhatsaxenagwl@gmail.com",
+      "password": "$2a$10$3BuvrprJF3AS1CqFyXb.ie35PIQz/vMN8r02Gmt96rvISh7tDiufO",
+      "role": "REGULAR",
+      "id": 6
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "$2a$10$EUS8HuoqRmkJE3MBHycgKe8mfZQiBbIUqF7C9i1nV9MMsmrTneWH6",
+      "role": "REGULAR",
+      "id": 7
+    },
+    {
+      "email": "xmen@gmail.com",
+      "password": "$2a$10$NlBhZm7rYh9OkFLOm6C8lukUVOWyz8Tqmi.pe.XpV3BZr0xXIyxvG",
+      "role": "REGULAR",
+      "id": 13
+    },
+    {
+      "email": "zei@gmail.com",
+      "password": "$2a$10$zehHejvP3uKa3c8GsyFUWuybOtDEJiQBk84lO61TbaFO/zMLKyJ12",
+      "role": "REGULAR",
+      "id": 14
+    },
+    {
+      "email": "zein@gmail.com",
+      "password": "$2a$10$947WVLWNdeXv8v5siSGe9.V9l8tawQ1C7jyhsOsv./swq0/E0GZ8e",
+      "role": "REGULAR",
+      "id": 15
+    },
+    {
+      "email": "black@gmail.com",
+      "password": "$2a$10$uPiL2nn9Zdo09.D7EfxmbO58qprxhi5gAiWk2Z3ehGbtrUZUsmRmG",
+      "role": "REGULAR",
+      "id": 16
+    },
+    {
+      "email": "hello@gmail.com",
+      "password": "$2a$10$2hgZLrUre8u6VUHMcGsfYONWPNQb5rTd66C0BNLEiA945XE.EdXsm",
+      "role": "REGULAR",
+      "id": 17
+    },
+    {
+      "email": "hello1@gmail.com",
+      "password": "$2a$10$Q5oYFDK9c3Eod/EDXitOTORYJXNvCbOTjExObQROP442CCxdOtEYS",
+      "role": "REGULAR",
+      "id": 18
+    },
+    {
+      "email": "blacwidow@gmail.com",
+      "password": "$2a$10$oM5mL9pzQE6E9ub7GRndZ.8wrosHWohI1RsKUDlB3OTI1rq57HVu.",
+      "role": "REGULAR",
+      "id": 19
+    },
+    {
+      "email": "hawkeye@gmail.com",
+      "password": "$2a$10$uyDZaE6qHITIFQUOyM9vjun9fSrUh//wF8c9e9akpwQst8/wWTjOK",
+      "role": "REGULAR",
+      "id": 20
+    },
+    {
+      "email": "sm@gmail.com",
+      "password": "$2a$10$BWHL4PHhJ0AwEMYW6YviB.PFH7.O/CtkopSV6tKWZSTJVu8oD3Qp2",
+      "role": "REGULAR",
+      "id": 21
+    },
+    {
+      "email": "im@gmail.com",
+      "password": "$2a$10$x60l94nfM6jKJHkOlC/YTOaUjkVFzTPMPxfBksWu55gelve6fMtEa",
+      "role": "REGULAR",
+      "id": 22
+    },
+    {
+      "email": "ktm@gmail.com",
+      "password": "$2a$10$vSS9offP5LtdxFhgIp4LzOuqaZDXnR.VefxLfzZB9X.U4axrzmee2",
+      "role": "REGULAR",
+      "id": 23
+    },
+    {
+      "email": "tum@gmail.in",
+      "password": "$2a$10$pwaIA6pHDrxKFjd8wC7g4OD03.goJc.o6T20W48cQ7vWQJQYJGLeS",
+      "role": "REGULAR",
+      "id": 24
+    },
+    {
+      "email": "shar@gmail.com",
+      "password": "$2a$10$Yp5UueMb8y2B8/utAHz2Hume22fvAxTm.zivDpHW2Y5CevBM86pFK",
+      "role": "REGULAR",
+      "id": 25
+    },
+    {
+      "email": "ankit@gmail.com",
+      "password": "$2a$10$zWLQMreBxD.NFO1IWf2sn.TvAvVNuKZf2n8iXEjI6V1lAfenRigY2",
+      "role": "REGULAR",
+      "id": 26
+    },
+    {
+      "email": "thor@gmail.com",
+      "password": "$2a$10$ilJEYDM5jOEnOppiB7yfmu.r7HwWGma3oEV9FqgE8/.6lcIM9Jq.G",
+      "role": "REGULAR",
+      "id": 27
+    },
+    {
+      "email": "sanskar.saxena@bitcs.in",
+      "password": "$2a$10$.XlIALTP8rJTJu9DX5LZO.quNbr8k/vvBhPJIi8Ll3gmqUpBvk5uu",
+      "role": "MANAGER",
+      "id": 28
+    },
+    {
+      "email": "xme@gmail.com",
+      "password": "$2a$10$GiYY9hj9rcXOjul6W8lhBOnAuJOxEyWn8TP/VSttvL4tsby33iEHe",
+      "role": "REGULAR",
+      "id": 30
+    },
+    {
+      "email": "rahul@gmail.com",
+      "password": "$2a$10$Lhsjvg8t2HcZxmDvcuAeBefSt/cXuRThM1Qbv.65Vy3Vk87fqUDCG",
+      "role": "MANAGER",
+      "id": 32
+    },
+    {
+      "email": "khanak@gmail.com",
+      "password": "$2a$10$n9wjKnT5OXBiOBiWBIet7OFld1Igt8cMmD/ppabAhKGPFLVcAA8tG",
+      "role": "REGULAR",
+      "id": 33
+    }
+  ],
+  "bikes": [
+    {
+      "model": "Suzuki SV650 Forum",
+      "color": "Purple",
+      "location": "Chennai",
+      "avgRating": "4.1",
+      "isAvailable": false,
+      "startDate": 1655231400000,
+      "endDate": 1656095400000,
+      "image": "Suzuki-SV650-Forum.jpg",
+      "id": 17
+    },
+    {
+      "model": "Royal Enfield",
+      "color": "Black Mat",
+      "location": "Delhi",
+      "avgRating": "4.7",
+      "isAvailable": true,
+      "startDate": 1655490600000,
+      "endDate": 1656181800000,
+      "image": "dual-classic-350.png",
+      "id": 18
+    },
+    {
+      "model": "Bajaj Dominar 400",
+      "color": "Black",
+      "location": "Noida",
+      "avgRating": "3.9",
+      "isAvailable": true,
+      "startDate": 1655317800000,
+      "endDate": 1655663400000,
+      "image": "bajaj-dominar-400.jpeg",
+      "id": 19
+    },
+    {
+      "model": "KTM Duke 200",
+      "color": "Black",
+      "location": "Delhi",
+      "avgRating": "4.7",
+      "isAvailable": true,
+      "startDate": 1655231400000,
+      "endDate": 1657477800000,
+      "image": "ktm-duke-200.jpg",
+      "id": 20
+    },
+    {
+      "model": "BMW G 310 R",
+      "color": "White",
+      "location": "Noida",
+      "avgRating": "4.8",
+      "isAvailable": false,
+      "startDate": 1655404200000,
+      "endDate": 1656268200000,
+      "image": "bmwG310r.png",
+      "id": 21
+    },
+    {
+      "model": "Splender Plus",
+      "color": "Red",
+      "location": "Bengaluru",
+      "avgRating": "3.6",
+      "isAvailable": true,
+      "startDate": 1655836200000,
+      "endDate": 1656700200000,
+      "image": "splender-plus.webp",
+      "id": 22
+    },
+    {
+      "model": "Revolt-RV 400",
+      "color": "Red",
+      "location": "Mumbai",
+      "avgRating": "4.2",
+      "isAvailable": true,
+      "startDate": 1655231400000,
+      "endDate": 1656095400000,
+      "image": "revolt-rv-400.webp",
+      "id": 23
+    },
+    {
+      "model": "Pulsar 150",
+      "color": "Black",
+      "location": "Bengaluru",
+      "avgRating": "4.3",
+      "isAvailable": true,
+      "startDate": 1656268200000,
+      "endDate": 1656700200000,
+      "image": "pulsar-150.png",
+      "id": 24
+    },
+    {
+      "model": "Hayabusa BS6",
+      "color": "White",
+      "location": "Noida",
+      "avgRating": "4.9",
+      "isAvailable": true,
+      "startDate": 1655663400000,
+      "endDate": 1656700200000,
+      "image": "hayabusa.png",
+      "id": 25
+    },
+    {
+      "model": "TVS Apache",
+      "color": "White",
+      "location": "Delhi",
+      "avgRating": "4",
+      "isAvailable": false,
+      "startDate": 1655836200000,
+      "endDate": 1656700200000,
+      "image": "default.webp",
+      "id": 26
+    },
+    {
+      "model": "Jawa Perak",
+      "color": "Black",
+      "location": "Delhi",
+      "avgRating": "3.4",
+      "isAvailable": true,
+      "startDate": 1655836200000,
+      "endDate": 1656700200000,
+      "image": "default.webp",
+      "id": 27
+    }
+  ],
+  "reviews": [],
+  "reservations": [
+    {
+      "bikeId": 18,
+      "userId": 28,
+      "start_date": "2022-6-24",
+      "end_date": "2022-6-28",
+      "status": "BOOKED",
+      "id": 1
+    },
+    {
+      "bikeId": 18,
+      "userId": 28,
+      "start_date": "2022-6-24",
+      "end_date": "2022-7-1",
+      "status": "BOOKED",
+      "id": 6
+    },
+    {
+      "bikeId": 18,
+      "userId": 28,
+      "start_date": "2022-6-25",
+      "end_date": "2022-6-26",
+      "status": "BOOKED",
+      "id": 7
+    },
+    {
+      "bikeId": 18,
+      "userId": 28,
+      "start_date": "2022-6-25",
+      "end_date": "2022-6-29",
+      "status": "BOOKED",
+      "id": 8
+    },
+    {
+      "bikeId": 18,
+      "userId": 33,
+      "start_date": "2022-6-24",
+      "end_date": "2022-6-29",
+      "status": "CANCELLED",
+      "id": 9
+    },
+    {
+      "bikeId": 18,
+      "userId": 33,
+      "start_date": "2022-6-23",
+      "end_date": "2022-6-30",
+      "status": "CANCELLED",
+      "id": 10
+    },
+    {
+      "bikeId": 24,
+      "userId": 33,
+      "start_date": "2022-6-24",
+      "end_date": "2022-6-25",
+      "status": "CANCELLED",
+      "id": 11
+    },
+    {
+      "bikeId": 25,
+      "userId": 33,
+      "start_date": "2022-6-18",
+      "end_date": "2022-6-20",
+      "status": "CANCELLED",
+      "id": 12
+    },
+    {
+      "bikeId": 18,
+      "userId": 33,
+      "start_date": "2022-6-18",
+      "end_date": "2022-6-19",
+      "status": "CANCELLED",
+      "id": 13
+    },
+    {
+      "bikeId": 18,
+      "userId": 33,
+      "start_date": "2022-6-21",
+      "end_date": "2022-6-22",
+      "status": "CANCELLED",
+      "id": 14
+    },
+    {
+      "bikeId": 17,
+      "userId": 33,
+      "start_date": "2022-6-22",
+      "end_date": "2022-6-25",
+      "status": "CANCELLED",
+      "id": 15
+    },
+    {
+      "bikeId": 18,
+      "userId": 33,
+      "start_date": "2022-6-17",
+      "end_date": "2022-6-20",
+      "status": "CANCELLED",
+      "id": 16
+    },
+    {
+      "bikeId": 17,
+      "userId": 28,
+      "start_date": "2022-6-17",
+      "end_date": "2022-6-22",
+      "status": "BOOKED",
+      "id": 17
+    },
+    {
+      "bikeId": 18,
+      "userId": 33,
+      "start_date": "2022-6-17",
+      "end_date": "2022-6-19",
+      "status": "CANCELLED",
+      "id": 18
+    },
+    {
+      "bikeId": 18,
+      "userId": 33,
+      "start_date": "2022-6-22",
+      "end_date": "2022-6-24",
+      "status": "CANCELLED",
+      "id": 19
+    }
+  ]
+}
